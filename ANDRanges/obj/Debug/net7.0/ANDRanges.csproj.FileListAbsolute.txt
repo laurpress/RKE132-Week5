@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/bin/Debug/net7.0/ANDRanges
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/bin/Debug/net7.0/ANDRanges.deps.json
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/bin/Debug/net7.0/ANDRanges.runtimeconfig.json
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/bin/Debug/net7.0/ANDRanges.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/bin/Debug/net7.0/ANDRanges.pdb
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.AssemblyInfo.cs
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/refint/ANDRanges.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.pdb
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ANDRanges.genruntimeconfig.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDRanges/obj/Debug/net7.0/ref/ANDRanges.dll

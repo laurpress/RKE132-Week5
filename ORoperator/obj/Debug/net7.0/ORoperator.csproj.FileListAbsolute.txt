@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/bin/Debug/net7.0/ORoperator
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/bin/Debug/net7.0/ORoperator.deps.json
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/bin/Debug/net7.0/ORoperator.runtimeconfig.json
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/bin/Debug/net7.0/ORoperator.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/bin/Debug/net7.0/ORoperator.pdb
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.AssemblyInfo.cs
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/refint/ORoperator.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.pdb
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ORoperator.genruntimeconfig.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ORoperator/obj/Debug/net7.0/ref/ORoperator.dll

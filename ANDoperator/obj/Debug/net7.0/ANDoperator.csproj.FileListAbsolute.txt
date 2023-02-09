@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/bin/Debug/net7.0/ANDoperator
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/bin/Debug/net7.0/ANDoperator.deps.json
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/bin/Debug/net7.0/ANDoperator.runtimeconfig.json
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/bin/Debug/net7.0/ANDoperator.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/bin/Debug/net7.0/ANDoperator.pdb
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.AssemblyInfo.cs
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/refint/ANDoperator.dll
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.pdb
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ANDoperator.genruntimeconfig.cache
+/Users/laurpress/Projects/Week5LogicalOperators/ANDoperator/obj/Debug/net7.0/ref/ANDoperator.dll
